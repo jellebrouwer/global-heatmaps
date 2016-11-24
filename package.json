@@ -1,0 +1,26 @@
+{
+  "name": "global-heatmaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jellebrouwer/global-heatmaps.git"
+  },
+  "author": "Jelle Brouwer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jellebrouwer/global-heatmaps/issues"
+  },
+  "homepage": "https://github.com/jellebrouwer/global-heatmaps#readme",
+  "dependencies": {
+    "datamaps": "^0.5.8"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
